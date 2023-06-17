@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500;700&family=Cormorant:wght@600&display=swap');
+
+*{
+    font-size: 120%;
+}
+
+body{
+    background-color: rgb(20, 20, 25);
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Cormorant', serif;
+
+}
+
+form{
+    font-family: 'Comfortaa', cursive;
+}
+
+.big{
+    font-size: 150%;
+}
+
+#infoForm{
+    border: 3px black solid;
+    border-radius: 15px;
+
+    padding: 10px 40px;
+}
+noscript{
+    margin: 30px;
+    font-size: 110%;
+}
+
